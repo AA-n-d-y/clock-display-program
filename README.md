@@ -1,3 +1,3 @@
 # Clock 
 
-A simple program made using the Tkinter library that displays the current time.
+A simple clock program, made using Python's Tkinter library, that displays the current time.
